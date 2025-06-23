@@ -6,3 +6,4 @@ requests
 plotly
 uvicorn
 fastapi
+Cython
